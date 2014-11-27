@@ -35,7 +35,7 @@ sort
 1. Inntaksforrit   ---  Andrea
 2. Vistunarforrit --- Agust
 3. Class --- Dagur
-4. Birtingin nafn, ar, kyn, faedingar og danarar 
+4. Birtingin nafn, ar, kyn, faedingar og danarar --- Sveinn
   
 
 5. birta í C++,  velja í byrjun hvort bæta við nafni eða leita í lista....
