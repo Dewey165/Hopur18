@@ -23,7 +23,21 @@ Skila skal lokaútgáfu kóðans í einni .zip/.rar skrá, ásamt upplýsingum u
 
 //
 To do:
-Gui interface með 4 editboxum, 
+Gui interface með 4 editboxum... vika 2-3
+
 Class famousPerson{
 
 };
+lesa ur innstaksstrauma, 
+birta listann.
+sort
+
+1. Inntaksforrit   ---  Andrea
+2. Vistunarforrit --- Agust
+3. Class --- Dagur
+4. Birtingin nafn, ar, kyn, faedingar og danarar 
+  
+
+5. birta í C++,  velja í byrjun hvort bæta við nafni eða leita í lista....
+6. sorta og leita, t.d. veldu 1 fyrir stafrófsröð og 2 fyrir fæðingarár, 3 fyrir dánardag, 4 eftr kyni, ásamt fleiru.
+7. bjóða eftir að listinnn hefur verið birtur hvort notandi vilji sorta hann og þá hvernig?
