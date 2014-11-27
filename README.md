@@ -1,4 +1,4 @@
-Hopur60
+Hopur18
 =======
 
 Þriggja vikna verkefnaáfangi
