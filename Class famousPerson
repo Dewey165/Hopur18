@@ -1,1 +1,22 @@
-Kodi fyrir classa
+#ifndef FAMOUSPERSON_H
+#define FAMOUSPERSON_H
+#include <iostream>
+#include <string>
+using namespace std;
+
+class FamousPerson
+{
+public:
+    FamousPerson();
+
+    friend istream& operator >> (istream& inp, FamousPerson &person);
+
+
+private:
+    string name;
+    string sex;
+    int yearOfBirth;
+    int yearOfDeath;
+};
+
+#endif // FAMOUSPERSON_H
