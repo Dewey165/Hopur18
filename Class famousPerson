@@ -1,1 +1,24 @@
 Kodi fyrir classa
+#include "famousperson.h"
+
+
+
+FamousPerson::FamousPerson()
+{
+  name = "";
+  sex = "";
+  yearOfBirth = 0;
+  yearOfDeath = 0;
+}
+
+istream& operator >> (istream& inp, FamousPerson &person)
+{
+     inp >> person.name;
+     inp >> person.sex;
+     inp >> person.yearOfBirth;
+     inp >> person.yearOfDeath;
+
+    return inp;
+}
+
+
